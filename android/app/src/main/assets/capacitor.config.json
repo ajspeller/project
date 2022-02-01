@@ -1,0 +1,6 @@
+{
+	"appId": "com.certifyyaself.starter",
+	"appName": "project",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
